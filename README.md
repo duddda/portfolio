@@ -1,14 +1,12 @@
 <h1 align="center">
-  Portfolio <img width="25px" src="https://raw.githubusercontent.com/EduardaTenório/Portfolio/3954a3ad525e1e2f9f58dac1417aae0abcdd176c/public/icon.svg"/>
+  Portfolio <img width="25px" src="https://raw.githubusercontent.com/duddda/portfolio/78ad196817dcbceb17336fdc0b1be23355164f61/public/icon.svg?token=AUOWIYLZWQVOU6GV7BE5Z4LD3R2SO/public/icon.svg"/>
 </h1>
 
 <p align="center">
-  <img alt="Github Top Language" src="https://img.shields.io/github/languages/top/Tenório/Portfolio?color=00FFFB">
+  <img alt="Github Top Language" src="https://img.shields.io/github/languages/top/duddda/portfolio?color=00FFFB">
   <img alt="Github Language Count" src="https://img.shields.io/github/languages/count/EduardaTenório/Portfolio?color=00FFFB">
-  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/EduardaTenório/Portfolio?color=00FFFB">
+  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/duddda/portfolio?color=00FFFB">
 </p>
-
-`<br>`
 
 ![Resultado final do projeto](https://raw.githubuserco)
 
@@ -47,7 +45,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=FFF&link=https://www.eduardatenorio.com/"/>
  </a>
 
-## 💻 Autor `<br>`
+## 💻 Autor
 
 <table>
   <tr>
