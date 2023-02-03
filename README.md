@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <p align="left">
 
 <a href="https://www.linkedin.com/in/mariaeduardatenório" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-000?style=for-the-badge&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/"/> 
+  <img src="https://img.shields.io/badge/-Linkedin-000?style=for-the-badge&logo=Linkedin&logoColor=0A66C2&link=https://www..com/in/"/> 
  </a>
 
 <a href="https://.app" alt="Portfolio">
@@ -62,4 +62,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-<h3 align="center"> Developed by <a href="https://www.linkedin.com/in/eduarda-tenorio/">Maria Eduarda</a> ☕</h3>
+<h3 align="center"> Developed by <a href="https://www..com/in/eduarda-tenorio/">Maria Eduarda</a> ☕</h3>
