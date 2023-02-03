@@ -8,12 +8,12 @@ export function Footer() {
     <FooterContainer>
       <h4> &copy; 2023 Maria Eduarda</h4>
       <div className="links">
-        <Link href={'https://github.com/'}>
+        <Link href={'https://github.com/duddda'}>
           <a target="_blank" aria-label="Link para o Github">
             <FiGithub />
           </a>
         </Link>
-        <Link href={'https://www.linkedin.com/'}>
+        <Link href={'https://www.linkedin.com/mariaeduardatenório'}>
           <a target="_blank" aria-label="Link para o Linkedin">
             <FiLinkedin />
           </a>

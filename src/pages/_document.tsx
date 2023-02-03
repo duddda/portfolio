@@ -44,7 +44,7 @@ export default class MyDocument extends Document {
           />  
           <meta
             name="description"
-            content="Meu nome é Maria Eduarda sou um Desenvolvedora Full Stack. Confira meus projetos construídos."
+            content="Meu nome é Maria Eduarda, sou desenvolvedora Full Stack. Confira meus projetos construídos."
           />
           <meta name="robots" content="index, follow" />
           <meta name="rating" content="general" />
@@ -67,11 +67,11 @@ export default class MyDocument extends Document {
           <meta property="og:site_name" content="Portfolio - Maria Eduarda Tenório" />
           <meta
             property="og:title"
-            content="Maria Eduarda | Desenvolvedor"
+            content="Maria Eduarda | Desenvolvedora"
           />
           <meta
             property="og:description"
-            content="Meu nome é Maria Eduarda sou um Desenvolvedora Full-Stack. Confira meus projetos construídos."
+            content="Meu nome é Maria Eduarda, sou desenvolvedora Full-Stack. Confira meus projetos construídos."
           />
 
           <meta property="og:image" content="/ogimage.png" />

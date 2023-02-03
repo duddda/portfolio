@@ -39,9 +39,9 @@ export function HomeHero() {
             </Link>
           </ButtonPrimary>
         </HomeText>
-        <ImgHome>
+        {/* <ImgHome>
           <img src="/projects/portfolio/home.webp" alt="Home" />
-        </ImgHome>
+        </ImgHome> */}
       </Content>
     </Container>
   )
