@@ -57,7 +57,7 @@ export const getServerSideProps = async (context: any) => {
     description: project.description,
     tags: project.tags,
     print: project.print,
-    video: project.video
+  
   }))
 
   const idProject = project.find(project => project.link === id)

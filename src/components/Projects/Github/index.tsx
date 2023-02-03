@@ -10,7 +10,7 @@ export function AllProjects() {
       <AllContainer>
         <h4>Todos os projetos</h4>
         <AllContent>
-          <Link href={'https://github.com/EduardaTenorio?tab=repositories'}>
+          <Link href={'https://github.com/duddda?tab=repositories'}>
               <a target="_blank">
             <button>
                 Repositório <FiGithub />
