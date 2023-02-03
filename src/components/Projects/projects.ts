@@ -7,7 +7,7 @@ const projects = [
       type: "Website",
       icon: "/projects/portfolio/home.webp",
       github: 'https://github.com/EduardaTenorio/Portfolio',
-      web: 'https://eduarda.vercel.app/',
+      web: 'https://eduardatenorio.vercel.app/',
       description: 'Meu portfólio criado com o objetivo de mostrar meus projetos ao longo da minha carreira.',
       tags: [
         {name: "Next JS", icon: '/skills/next-js.svg' },
@@ -91,7 +91,7 @@ const projects = [
       type: "Website",
       icon: "/projects/podcastr/icon.svg",
       github: 'https://github.com/EduardaTenorio/Podcastr',
-      web: 'https://podcastr-eduarda.vercel.app/',
+      web: 'https://podcastr-eduardatenorio.vercel.app/',
       description: 'Podcastr é uma plataforma construída para transmissão de podcast.',
       tags: [
         {name: "React JS", icon: '/skills/react.svg' },
@@ -139,7 +139,7 @@ const projects = [
       type: "Website",
       icon: "/projects/github-blog/logo.svg",
       github: 'https://github.com/EduardaTenorio/Github-Blog',
-      web: 'https://github-blog-eduarda.vercel.app/',
+      web: 'https://github-blog-eduardatenorio.vercel.app/',
       description: 'Github Blog utiliza a Api do Github para pegar os dados de usuário, e para puxar dados das issues desse repositório para transformar em postagens.',
       tags: [
         {name: "Next JS", icon: '/skills/next-js.svg' },

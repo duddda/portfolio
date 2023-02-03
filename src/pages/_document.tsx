@@ -58,7 +58,7 @@ export default class MyDocument extends Document {
             rel="stylesheet"
           />
 
-          <link rel="canonical" href="https://eduarda.vercel.app" />
+          <link rel="canonical" href="https://eduardatenorio.vercel.app" />
           <meta name="theme-color" content="#00d9ff" />
           <meta name="author" content="Maria Eduarda Tenório" />
           <meta name="creator" content="Maria Eduarda Tenório" />
@@ -76,7 +76,7 @@ export default class MyDocument extends Document {
 
           <meta property="og:image" content="/ogimage.png" />
           <meta property="og:type" content="website" />
-          <meta property="og:url" content="https://eduarda.vercel.app" />
+          <meta property="og:url" content="https://eduardatenorio.vercel.app" />
           <meta name="twitter:image" content="/ogimage.png" />
 
           <link rel="icon" href="/icon.svg" />
