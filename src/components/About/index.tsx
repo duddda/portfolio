@@ -38,7 +38,7 @@ export function About() {
               habilidades que possuo.
             </p>
           </div>
-          <a href="/pdf/Eduarda-Curriculo.pdf" download>
+          <a href="/pdf/MariaEduardaTenório-Curriculo.pdf" download>
             <ButtonPrimary>
               <b>Download CV</b> <DownloadSimple weight="bold" />
             </ButtonPrimary>

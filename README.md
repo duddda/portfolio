@@ -10,7 +10,6 @@
 
 ![Resultado final do projeto](https://raw.githubuserco)
 
-<br>
 
 ## 📝 Descrição
 
