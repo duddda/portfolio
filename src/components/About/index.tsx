@@ -17,7 +17,7 @@ export function About() {
         <div className="AboutImg">
           <img
             className="AboutImg"
-            src="/MariaEduarda1.webp"
+            src="/Maria.webp"
             alt="Imagem de perfil Eduarda"
           />
         </div>
@@ -25,17 +25,16 @@ export function About() {
         <div className="aboutContent">
           <div className="aboutDescription">
             <p>
-              Sou desenvolvedora Full Stack e estou cursando 
-              Sistemas de Informação na PUC Minas.
+              Sou desenvolvedora Full Stack há 3 anos e graduanda
+              em Sistemas de Informação na PUC Minas.
             </p>
             <p>
               Meu interesse e primeiro contato com desenvolvimento web começou
-              em 2021, com a criação de um sistema feito em PHP, Laravel, JavaScript, Html, e Css.
+              em 2020, com a criação de um sistema feito em PHP, Laravel, JavaScript, Html, e Css.
             </p>
             <p>
-              Atualmente estou estudando e desenvolvendo projetos web, de modo a
-              ampliar meus conhecimentos e assim aprimorar ainda mais as
-              habilidades que possuo.
+              Atualmente trabalho não só como freelancer desenvolvendo projetos web
+              como também no cargo de desenvolvedora full stack em uma empresa privada.
             </p>
           </div>
           <a href="/pdf/MariaEduardaTenório-Curriculo.pdf" download>

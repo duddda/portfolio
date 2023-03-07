@@ -79,7 +79,7 @@ export const HomeText = styled.div`
   }
   
   .cubo-animation {
-    position: absolute;
+    position: relative;
     width: 30px;
     height: 30px;
     border: 4px solid #8543ff;
